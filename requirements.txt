@@ -1,0 +1,9 @@
+numpy==1.26.4
+scipy>=1.13.1
+matplotlib>=3.8.2
+tqdm>=4.66.5
+h5py>=3.10.0
+jax>=0.4.28
+optax>=0.1.9
+equinox>=0.11.3
+diffrax>=0.5.0
